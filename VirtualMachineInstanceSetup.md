@@ -1,10 +1,17 @@
-Date: 28th February, 2024 
+### Date: 28th February, 2024 
+
 Start Time: 20:39
+
 End Time: 20:47
+
 Duration: 8 minutes 
+
 Status: Done 
+
 Activity: Creating a new Google Cloud Platform project and running a GCP Virtual Machine to test ArcGIS Server 
+
 Status: Completed 
+
 Next Step: Set up a Firewall rule
 
 Setting up a new project:
