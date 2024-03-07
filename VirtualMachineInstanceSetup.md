@@ -13,7 +13,7 @@
 
 ### Status: Completed 
 
-### Next Step: Set up a Firewall rule
+### Next Step: Setting Virtual Machine Port [Set up a Firewall rule]
 
 ### Setting up a new project:
 1. Log in to the Google Cloud Platform 
