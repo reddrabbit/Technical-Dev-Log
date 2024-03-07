@@ -1,8 +1,8 @@
-Date: 28th February, 2024 
+**Date: 28th February, 2024 
 
-Start Time: 20:39 pm 
+Start Time: 20:39
 
-End Time: 20:47 pm 
+End Time: 20:47
 
 Duration: 8 minutes 
 
@@ -12,11 +12,11 @@ Activity: Creating a new Google Cloud Platform project and running a GCP Virtual
 
 Status: Completed 
 
-Next Step: Set up a Firewall rule 
+Next Step: Set up a Firewall rule **
 
  
 
-Setting up a new project: 
+**Setting up a new project: **
 
 1. Log in to the Google Cloud Platform 
 
@@ -28,7 +28,7 @@ Setting up a new project:
 
  
 
-Creating an Instance of a Virtual Machine: 
+**Creating an Instance of a Virtual Machine:** 
 
 1. Select a project to work on and click the hamburger icon on the top left area of the screen. 
 
