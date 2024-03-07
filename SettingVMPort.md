@@ -9,7 +9,6 @@
 
 ### Duration: 25 minutes 
 
-### Status: Done 
 ### Status: Completed 
 
 ### Next Step:  Setting ArcGIS Server Ports [Set up GCP firewall rule to allow ArcGIS server management ports] 
