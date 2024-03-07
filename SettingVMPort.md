@@ -12,7 +12,7 @@
 ### Status: Done 
 ### Status: Completed 
 
-### Next Step:  Set up GCP firewall rule to allow ArcGIS server management ports 
+### Next Step:  Setting ArcGIS Server Ports [Set up GCP firewall rule to allow ArcGIS server management ports] 
 
  
 
