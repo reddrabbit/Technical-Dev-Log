@@ -7,13 +7,13 @@ Activity: Creating a new Google Cloud Platform project and running a GCP Virtual
 Status: Completed 
 Next Step: Set up a Firewall rule
 
-**Setting up a new project: **
+Setting up a new project:
 1. Log in to the Google Cloud Platform 
 2. Right next to the logo, there's a bar that should prompt you to create a new project or it should say "My First Project". 
 3. If the latter option from Step 2 is not available, click on this bar and then click the "New Project" icon in the upper right of the dialogue box that appears. 
 4. Choose a statutory name for your project and click the Create button. 
 
-**Creating an Instance of a Virtual Machine:** 
+Creating an Instance of a Virtual Machine:
 1. Select a project to work on and click the hamburger icon on the top left area of the screen. 
 2. Locate the "Compute Engine" option and hover over it. A list of available options will appear to the right. 
 3. From the list of options, look for and select the "VM Instances" option. 
@@ -28,5 +28,3 @@ Next Step: Set up a Firewall rule
 12. The monthly estimate will be recalculated accordingly. 
 13. In firewall settings, check the boxes for the Allow HTTP and HTTPS. (Doing this will allow us use a web server on this VM instance) 
 14. Click on "Create" to initialize the instance. (This step usually takes a bit of time. This is because the image needs to be copied to your GCP account and the system needs to be booted) [took about 2 minutes to initialize] 
-
- 
