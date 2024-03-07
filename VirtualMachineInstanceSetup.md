@@ -1,26 +1,27 @@
+# Activity: Creating a new Google Cloud Platform project and running a GCP Virtual Machine to test ArcGIS Server 
+
+
 ### Date: 28th February, 2024 
 
-Start Time: 20:39
+### Start Time: 20:39
 
-End Time: 20:47
+### End Time: 20:47
 
-Duration: 8 minutes 
+### Duration: 8 minutes 
 
-Status: Done 
+### Status: Done 
 
-Activity: Creating a new Google Cloud Platform project and running a GCP Virtual Machine to test ArcGIS Server 
+### Status: Completed 
 
-Status: Completed 
+### Next Step: Set up a Firewall rule
 
-Next Step: Set up a Firewall rule
-
-Setting up a new project:
+### Setting up a new project:
 1. Log in to the Google Cloud Platform 
 2. Right next to the logo, there's a bar that should prompt you to create a new project or it should say "My First Project". 
 3. If the latter option from Step 2 is not available, click on this bar and then click the "New Project" icon in the upper right of the dialogue box that appears. 
 4. Choose a statutory name for your project and click the Create button. 
 
-Creating an Instance of a Virtual Machine:
+### Creating an Instance of a Virtual Machine:
 1. Select a project to work on and click the hamburger icon on the top left area of the screen. 
 2. Locate the "Compute Engine" option and hover over it. A list of available options will appear to the right. 
 3. From the list of options, look for and select the "VM Instances" option. 
