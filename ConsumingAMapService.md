@@ -24,9 +24,9 @@
 
 1. Once the desktop Is up and running, move over to your local browser and connect to the REST service directory with the same external IP 
 
-  * https://externalIP/arcgis/rest/services 
+    * https://externalIP/arcgis/rest/services 
 
-  * Note that "https" is crucial in the url to make it work. You will get a safety warning prompt. Proceed regardless of that. 
+    * Note that "https" is crucial in the url to make it work. You will get a safety warning prompt. Proceed regardless of that. 
 
 1. Once in, locate the Map Service and proceed to copy the URL to the service 
 
@@ -34,9 +34,9 @@
 
 1. Insert your URL into the dialog box. You will be prompted to select the type of item/source of the item 
 
-  * By default, this should identify the URL as an ArcGIS Server item 
+    * By default, this should identify the URL as an ArcGIS Server item 
 
-  * If not, search for and choose the ArcGIS Server Item 
+    * If not, search for and choose the ArcGIS Server Item 
 
 1. Once done, proceed to finish up by naming, adding tags, descriptions, and that's it! 😉 
 
