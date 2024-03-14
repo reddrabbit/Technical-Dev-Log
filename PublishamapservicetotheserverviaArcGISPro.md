@@ -75,6 +75,7 @@
 1. Locate your current map view and select it 
 1. You'll be greeted with this interface: 
 ![ArcGIS Publish Map Service Window](photos/W7/publishPanel.png)
+
 1. Add the necessary info 
 1. Under Data ensure that the Reference Original data option is checked 
 1. For Folder section, you may choose to create a new folder to store this map or just dump it in the site(root)😉 
