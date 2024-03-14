@@ -52,7 +52,7 @@
 ![Add ArcGIS Server Connection Window](photos/W7/NewServerConnection.png)
 1. In the Server URL tab, put in your ArcGIS Server URL. For this exercise It is: 
 
-    * <https://externalIP:ArcGISServerPort/arcgis 
+    * <https://externalIP:ArcGISServerPort/arcgis> 
 
 1. Username will be your Username. For this exercise, however, it is siteadmin 
 
