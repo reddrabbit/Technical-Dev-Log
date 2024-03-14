@@ -73,7 +73,8 @@
 1. Right click on your server connection in the catalog pane and hover over the publish option 
 1. Click on the Map service option  
 1. Locate your current map view and select it 
-1. You'll be greeted with this interface: 
+1. You'll be greeted with this interface
+
 ![ArcGIS Publish Map Service Window](photos/W7/publishPanel.png)
 
 1. Add the necessary info 
