@@ -24,11 +24,11 @@
 
 ### Resources: 
 
-  * [SQLite Homepage] (https://sqlite.org) 
+  * [SQLite Homepage](https://sqlite.org) 
 
-  * [Python SQLite3 Doc] (https://docs.python.org/3/library/sqlite3.html#) 
+  * [Python SQLite3 Doc](https://docs.python.org/3/library/sqlite3.html#) 
 
-  * [Taking maps offline with SQLite  -GIS Cloud] (https://av.tib.eu/media/41051) 
+  * [Taking maps offline with SQLite  -GIS Cloud](https://av.tib.eu/media/41051) 
 
 ### Studying SQLite 
 
