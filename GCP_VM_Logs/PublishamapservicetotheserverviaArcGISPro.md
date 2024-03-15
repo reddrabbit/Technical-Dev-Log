@@ -92,6 +92,6 @@
         * Selecting the first option from the photo indicates that both Publisher and Server paths have the same directory names and path. Only do this if this is true. Else.. 
         * Choose the second option and manually input the path to the data on the server 
 1. After choosing the appropriate paths, click OK to register the data source 
-1. For good measure, hit the Analyze button again to ensure the error and warning does not persist. If other errors or warnings exist, fret not. Error 00374 and warning 24011 are what we need to be concerned with. 
+1. For good measure, hit the Analyze button again to ensure the error and warning does not persist. If other errors or warnings exist, fret not. **Error 00374 and warning 24011** are what we need to be concerned with. 
 1. Once done and all things look good, hit Publish and chill 
 1. Once it publishes, head on over to the rest service directory and play around with your published item!😉 
