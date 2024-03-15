@@ -75,16 +75,16 @@
 1. Locate your current map view and select it 
 1. You'll be greeted with this interface
  
-![ArcGIS Publish Map Service Window](photos/W7/publishPanel.png)
+![ArcGIS Publish Map Service Window](../photos/W7/publishPanel.png)
 1. Add the necessary info 
 1. Under Data ensure that the Reference Original data option is checked 
 1. For Folder section, you may choose to create a new folder to store this map or just dump it in the site(root)😉 
 1.Before publishing, click on the Analyse option. This will reveal 1 error and 1 warning we absolutely must fix to proceed.
-![Publishing Errors and Warnings](photos/W7/errors.png)
+![Publishing Errors and Warnings](../photos/W7/errors.png)
 1. The first error can simply be fixed by right clicking on it and then selecting the Auto Assign IDs Sequentially option. 
 1. The warning with number 24011 is especially dreadful. Y'see that "data will be copied to server" threat? We do not want that. 
     * Right click this warning and choose the Register Data source with server option. 
-    * ![Folder Path Registry Window ArcGIS Pro](photos/W7/folderRegistry.png)
+    * ![Folder Path Registry Window ArcGIS Pro](../photos/W7/folderRegistry.png)
     * Name should be the same as your map view or any intuitive one 
     * Publisher folder path is the path that holds the data (shapefile) currently being displayed. The one we are attempting to publish via data referencing 
     * Server folder path is the path to the directory holding the extracted data of the same type on the SERVER. Very important to note this 
