@@ -8,6 +8,7 @@
 ### End Time:18:40 
 
 ### Duration: 40 minutes 
+      *Took longer than expected because the server connection was quite slow for some reason. Not sure why.
 
 ### Status: Completed 
 
