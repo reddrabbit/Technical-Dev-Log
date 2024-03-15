@@ -6,7 +6,7 @@
 ### End Time: 14:49 
 ### Duration: 9 minutes 
 ### Status: Done 
-### Next Step: Read and Learn about the services 
+### Next Step: Read and Learn about the services & Consume server's service
 
  
 
