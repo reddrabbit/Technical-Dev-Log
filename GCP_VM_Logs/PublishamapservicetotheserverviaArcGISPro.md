@@ -49,7 +49,7 @@
     * Select the New ArcGIS Server option from the list 
 
 1. A new dialog box will appear as thus: 
-![Add ArcGIS Server Connection Window](photos/W7/NewServerConnection.png)
+![Add ArcGIS Server Connection Window](../photos/W7/NewServerConnection.png)
 1. In the Server URL tab, put in your ArcGIS Server URL. For this exercise It is: 
 
     * <https://externalIP:ArcGISServerPort/arcgis> 
