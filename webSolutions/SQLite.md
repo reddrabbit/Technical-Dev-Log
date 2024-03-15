@@ -55,7 +55,7 @@ SQLite can and has been in use for a while now in mapping services to store data
     * Not ideal for larger areas 
 
     * Data cannot be queried as they are just image layers 
-1. Can be stored as raw Vector or Raster Data 
+2. Can be stored as raw Vector or Raster Data 
 
   * Pros to raw data 
 
