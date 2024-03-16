@@ -79,7 +79,7 @@
 ![ArcGIS Publish Map Service Window](../photos/W7/publishPanel.png)
 1. Add the necessary info 
 1. Under **Data** ensure that the **Reference Original data** option is checked 
-1. For the **Folder** section, you may choose to create a new folder to store this map or just dump it in the **site(root)**😉 
+1. For the **Folder** section, you may choose to create a new folder to store this map or just dump it in the **site(root)** 😉 
 1.Before publishing, click on the **Analyse** option. This will reveal 1 error and 1 warning we **absolutely*** must fix to proceed.
 ![Publishing Errors and Warnings](../photos/W7/errors.png)
 1. The first error can simply be fixed by right clicking on it and then selecting the **Auto Assign IDs Sequentially** option. 
