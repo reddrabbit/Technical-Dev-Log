@@ -2,7 +2,7 @@
 ### Start Time: 6:40
 ### End Time: 7:30 
 ### Duration: 50 mins 
-### Next Step: Working with Experience Builder from scratch Part2 
+### Next Step: [Working with Experience Builder from scratch Part2](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/ExperienceBuilder2.md) 
 ### Resource: [ESRI's YouTube Channel](https://www.youtube.com/watch?v=zQMBhtQOwwY&t=420s) 
 
 ### Steps: 
