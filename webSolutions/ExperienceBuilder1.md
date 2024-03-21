@@ -29,9 +29,13 @@
 +  Select a List widget and place it inside the column
     +  On the right panel, style the column's width and height however you want
     +  Style the list as well, and choose a layout/orientation template from the __Content & Style__ windows on the left panel
-+  Once the styles and content orientations have been set, while still in the Contents window, click Start to begin adding data to the list items
++  Once the styles and content orientations have been set, while still in the Contents window, click Start to begin adding data to the list of items
     + This process links the items to their respective data sources
 + Select any of the list items and then turn your focus to the right-hand pane
 + Under the Data window, select Default. This will load up records from the feature layer and use them as list items
-    +  
+    + <Insert Ex1>
++ Once done, click on the name text for the list item
+    + Locate the Dynamic Content icon. This will help in populating the names with a specified field using the Arcade scripting language
+    + <Insert Exp2> 
+    
 
