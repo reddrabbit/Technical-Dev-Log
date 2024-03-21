@@ -1,4 +1,4 @@
-# Activity: xploring Experience Builder Part 2 [Making a web app from scratch]
+# Activity: Exploring Experience Builder Part 2 [Making a web app from scratch]
 ### Date: 20th March, 2024 
 ### Start Time: 22:00 
 ### End Time: 22:25 
@@ -7,7 +7,7 @@
 - Complete the web application set up with Experience Builder 
 - Realize and understand the web app tiers involved in the Experience Builder architecture
 ### Steps: 
-**_Following the Part 1 of this log which you can reference [here](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/ExperienceBuilder1.md ), this log entry will serve as a conclusion to ESRI's experience builder intro_**
+**_Following Part 1 of this log series, which you can reference [here](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/ExperienceBuilder1.md ), this log entry will serve as a conclusion to ESRI's experience builder intro_**
 
 - **Adding a Header Section**. On the left pane, locate the **Page** icon and then click the drop-down menu in the ribbon to add a link.
   - <Insert EXp2a>
