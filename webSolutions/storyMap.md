@@ -19,6 +19,7 @@
 #### Steps: 
 
 **_This process was completed with data and workflow from the Spatial Analysis Course Project for a Least Cost Path Analysis_**
+**_The story Map can be viewed here: [My First Story Map](https://storymaps.arcgis.com/stories/ad67593034e84dbea4fce38540f44088)
 
 - Acquire the data required for creating a story map 
   - Includes the results of the analysis  
@@ -32,8 +33,9 @@
 - Click on the New Story button to get started 
   - Select the sidecar option 
 - A new tab opens where you will be able to add data, insert photos, maps, text, audio files, and embed links to other applications 
-- By clicking on the Big + circle button, you can access all the features that are usable within the story map interface. 
-- Depending on the Story Map template used, the interface may differ, design and layout wise.  
+- By clicking on the big **+** circle button, you can access all the features that are usable within the story map interface. 
+- Depending on the Story Map template used, the interface may differ, design and layout wise.
+- Add items to the story map that are intuitive and related to other project or task. 
 
 #### Takeaway: 
 
