@@ -33,22 +33,22 @@
     + This process links the items to their respective data sources
 + Select any of the list items and then turn your focus to the right-hand pane
 + Under the Data window, select Default. This will load up records from the feature layer and use them as list items
-    + <Insert Ex1>
+    + ![List Items](../photos/webSoln/Exp1.png)
 + Once done, click on the name text for the list item
     + Locate the Dynamic Content icon. This will help in populating the names with a specified field using the Arcade scripting language
-    + <Insert Exp2> 
-    + <Insert Exp3>
+    + ![Dynamic List Title](../photos/webSoln/Exp2.png) 
+    + ![Dynamic List Title 2](../photos/webSoln/Exp3.png)
 + After acquiring the place name, click on the image next to the title to also give it a photo.
     + For this step, a dynamic option may also be selected or a Static one from the right panel
     + If using Dynamic, one of the 3 options is available
-    + <Insert Exp4>  
+    + ![Dynamic Attached Photos](../photos/webSoln/Exp4.png) 
     + The Symbol option uses the map symbology for the features
     + The attachment requires an image attachment field in the records to have been pre-populated, which is then used accordingly
     + The URL is...well, a URL that links to a photo that'll be referenced and used
 + Once done, you may click on the text just below the Heading for the list item to set a dynamic one to the field of interest.
     + Font and position can also be played around with
 + The next step is to add a map widget. Do so by locating the map widget on the left pane and dragging it to an appropriate space on the page.
-    + <Insert Exp5>
+    + ![Editing Map Widget](../photos/webSoln/Exp5.png "Map and List Side by Side")
 + On the right pane, the map data source,  tools, orientation, and style of the map can be set.
 + On the ribbon, an option called Live View exists, which can help preview the look of the webpage prior to publishing. Toggle this option on and off as you see fit. 
 + The next step is to configure triggers for the map items. One easy one is a zoom-to trigger. This forces an auto zoom option when one of our list items is selected. 
@@ -57,13 +57,13 @@
 + In the right pane, go to the Action section. 
 + Click on the Add Trigger button to initiate the process 
 + Two options are made available: 
-    + <Insert Exp6>
+    + ![Adding Trigger](../photos/webSoln/Exp6.png) 
 + Select the Record Selection Changes 
 + You will be prompted to select a target. Choose the map as the target, as this is what we want to do something with when an item is selected from the list:
-    + <Insert Exp7>
+    + ![Setting trigger to the Map](../photos/webSoln/Exp7.png) 
 + You will then have to select an action to complete on the map:
-    + <Insert Exp8>
+    + ![Trigger Action Setup](../photos/webSoln/Exp8.png) 
 + Once done, the setup page will look like this
-    + <Insert Exp9>
+    + ![Trigger Set up Page](../photos/webSoln/Exp9.png) 
 + Now save your work and head back to the live preview to see it in action. 
 
