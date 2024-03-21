@@ -37,5 +37,33 @@
 + Once done, click on the name text for the list item
     + Locate the Dynamic Content icon. This will help in populating the names with a specified field using the Arcade scripting language
     + <Insert Exp2> 
-    
+    + <Insert Exp3>
++ After acquiring the place name, click on the image next to the title to also give it a photo.
+    + For this step, a dynamic option may also be selected or a Static one from the right panel
+    + If using Dynamic, one of the 3 options is available
+    + <Insert Exp4>  
+    + The Symbol option uses the map symbology for the features
+    + The attachment requires an image attachment field in the records to have been pre-populated, which is then used accordingly
+    + The URL is...well, a URL that links to a photo that'll be referenced and used
++ Once done, you may click on the text just below the Heading for the list item to set a dynamic one to the field of interest.
+    + Font and position can also be played around with
++ The next step is to add a map widget. Do so by locating the map widget on the left pane and dragging it to an appropriate space on the page.
+    + <Insert Exp5>
++ On the right pane, the map data source,  tools, orientation, and style of the map can be set.
++ On the ribbon, an option called Live View exists, which can help preview the look of the webpage prior to publishing. Toggle this option on and off as you see fit. 
++ The next step is to configure triggers for the map items. One easy one is a zoom-to trigger. This forces an auto zoom option when one of our list items is selected. 
++ If in the live view mode, toggle it off. 
++ Select any one of the list items 
++ In the right pane, go to the Action section. 
++ Click on the Add Trigger button to initiate the process 
++ Two options are made available: 
+    + <Insert Exp6>
++ Select the Record Selection Changes 
++ You will be prompted to select a target. Choose the map as the target, as this is what we want to do something with when an item is selected from the list:
+    + <Insert Exp7>
++ You will then have to select an action to complete on the map:
+    + <Insert Exp8>
++ Once done, the setup page will look like this
+    + <Insert Exp9>
++ Now save your work and head back to the live preview to see it in action. 
 
