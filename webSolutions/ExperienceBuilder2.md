@@ -10,13 +10,13 @@
 **_Following Part 1 of this log series, which you can reference [here](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/ExperienceBuilder1.md ), this log entry will serve as a conclusion to ESRI's experience builder intro_**
 
 - **Adding a Header Section**. On the left pane, locate the **Page** icon and then click the drop-down menu in the ribbon to add a link.
-  - <Insert EXp2a>
+  - ![Add Links](../photos/webSoln/Exp2a.png) 
   - The link configuration window looks like this:
-    - <Insert Exp2b>
+    - ![Link Setup Window](../photos/webSoln/Exp2b.png) 
 - Toggle on or off a header or footer section in the right pane. You can change the colour and size as well.
 - Hover over the header section to either edit it with a template or drag and drop widgets from the Add widget pane on the left. 
 - Once done, before exiting out of the header editor mode, drag in a Menu widget. This will make the link we set above become a navigation bar item! Pretty neat!
-  -<Insert Exp2c>
+  -![Link Preview In Header](../photos/webSoln/Exp2c.png) 
 - Add in a footer as well if necessary 
 - Once completed, click on the Play button on the ribbon to preview the web app 
 - If everything looks good, publish the application. Ensure it is set to share with organization.  
