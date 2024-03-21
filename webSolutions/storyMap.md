@@ -19,6 +19,7 @@
 #### Steps: 
 
 **_This process was completed with data and workflow from the Spatial Analysis Course Project for a Least Cost Path Analysis_**
+
 **_The story Map can be viewed here: [My First Story Map](https://storymaps.arcgis.com/stories/ad67593034e84dbea4fce38540f44088)_**
 
 - Acquire the data required for creating a story map 
