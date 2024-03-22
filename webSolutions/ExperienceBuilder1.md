@@ -4,6 +4,7 @@
 ### Duration: 50 mins 
 ### Next Step: [Working with Experience Builder from scratch Part2](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/ExperienceBuilder2.md) 
 ### Resource: [ESRI's YouTube Channel](https://www.youtube.com/watch?v=zQMBhtQOwwY&t=420s) 
+### Result: [My First WebPage with Experience Builder](https://experience.arcgis.com/experience/12ac253f7c874d34bae4fade370e2c07/page/Home/)
 
 ### Steps: 
 **_Note: Experience Builder does not autosave as Story Maps does. Saving along the way Is crucial for maintaining a happy mental state in the event of a sudden device failure_** 😉 
