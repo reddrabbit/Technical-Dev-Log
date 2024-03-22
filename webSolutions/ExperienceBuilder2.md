@@ -2,7 +2,8 @@
 ### Date: 20th March, 2024 
 ### Start Time: 22:00 
 ### End Time: 22:25 
-### Duration: 25 minutes  
+### Duration: 25 minutes 
+### Result: [My First WebPage with Experience Builder](https://experience.arcgis.com/experience/12ac253f7c874d34bae4fade370e2c07/page/Home/)
 #### Outcomes:  
 - Complete the web application set up with Experience Builder 
 - Realize and understand the web app tiers involved in the Experience Builder architecture
