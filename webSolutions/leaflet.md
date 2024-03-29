@@ -23,16 +23,18 @@
 - Set up a base HTML page on VSCode or any IDE of your choosing 
 - Add a link tag to facilitate a link to Leaflet's CSS and Leaflet's drawing libraries  
 - The drawing library will allow us to add shapes to the map later.
-  - <Will add HTML1  here soon>
+  - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/c74ed02b-03a2-4dd2-a555-56a588d6b86a)
+
 - In the body of the HTML document, initialize an empty div element with an id map 
 - Create buttons for the Buffer functionality. Name them accordingly. Setting the button that would be used to reset the buffer analysis to a none display.
 This ensures it is not visible when the webpage goes live.
-  - <Will add HTML2 here soon>
+  - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/b91743fd-86e0-4e8c-86bc-a71c2cbf048b)
+
 - Now, link the JS files from leaflet for interactive maps, and one for the drawing library from leaflet:
-  - <Will add HTML3 here soon>
+  - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/6d47b49c-bbbf-4ca8-947b-7c4428627942)
 - Lastly, link a custom external JS file that will hold code for the buffering functions, setting map view and extent, etc:
-  -<Will add HTML4 here soon>
-  
+  -![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/c053f557-9f86-45cc-8fbe-6581a0f39167)
+
 #### Authoring the Custom JavaScript:
 ##### Initializing Map Object and Tile Data 
 - In the JavaScript Doc, initialize a Leaflet map object and assign it to a variable.
@@ -45,7 +47,7 @@ This section of the code consists of various parameters:
   - A URL template for fetching tiles, where {s} is a placeholder for the subdomain, {z} is the zoom level, {x} and {y} are the tile coordinates.  
   - The maximum zoom level. This simply means the map's zoom cannot exceed whatever number is set 
   - **Note:** _**Leaflet uses an algorithm known as Domain Sharding to split the load between different subdomains when a request for map tile layers is made.**_
-  - <Will add JS1 image here>
+  - 
 - Zoom level 19 is the street-level view. The 12 after the coordinates is the zoom extent for the map object. This is how the map will first be displayed when loaded.  
 - **Please note that the placement of the placeholders z, x, and y are very important. Setting these in a different pattern will result in errors.**
 - The .addTO(map) code will add the tile layers to the map variable.
