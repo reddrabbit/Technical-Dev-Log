@@ -7,9 +7,9 @@
 ### Outcomes:  
   - Learn about Leaflet and how it works
   - Build something after learning about the JavaScript library and its possibilities
-  - Give a ranking on whether or not it is suitable for solving team problem statement
   - URL to result: [Attempted Buffer Map](https://reddrabbit.github.io/Technical-Dev-Log/webSolutions/leafletMaps/buffer.html)
 ### Next Step: 
+  - Give a ranking on whether or not the current activity it is suitable for solving team problem statement
   - Explore the rumoured Leaflet Offline JS
 ### Note:
 **Leaflet is a JS library, and as such, is a web tier or presentation part of the web architecture. It is not a full-stack web application and requires a middle tier to handle algorithms and connections to a data component.**
