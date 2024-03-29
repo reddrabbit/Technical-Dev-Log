@@ -10,6 +10,13 @@
   - Explore the rumoured Leaflet Offline JS
 ### Note:
 **Leaflet is a JS library, and as such, is a web tier or presentation part of the web architecture. It is not a full-stack web application and requires a middle tier to handle algorithms and connections to a data component.**
+### Things I tried that did not work out:
+- I tried getting the shapes drawn on the map to stick, but for whatever reason, once I drew them, they disappeared from the map. 
+- I tried to implement a buffer functionality to tell the map user how much buffer area had been covered.
+- I tried to get map tiles from other sources, but could not
+- I tried to get tile data from arcgis online but that also did not work. Was greeted with an error in the console:
+  - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/cb246a70-462b-4aae-b796-a4d34a2e77c9)
+ 
 
 ### Steps
 ##### Setting up the HTML Page:
