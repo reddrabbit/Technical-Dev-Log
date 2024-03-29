@@ -47,7 +47,7 @@ This section of the code consists of various parameters:
   - A URL template for fetching tiles, where {s} is a placeholder for the subdomain, {z} is the zoom level, {x} and {y} are the tile coordinates.  
   - The maximum zoom level. This simply means the map's zoom cannot exceed whatever number is set 
   - **Note:** _**Leaflet uses an algorithm known as Domain Sharding to split the load between different subdomains when a request for map tile layers is made.**_
-  - 
+  - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/b9bb26c9-e4b9-4f92-a691-76e2b0592cbb)
 - Zoom level 19 is the street-level view. The 12 after the coordinates is the zoom extent for the map object. This is how the map will first be displayed when loaded.  
 - **Please note that the placement of the placeholders z, x, and y are very important. Setting these in a different pattern will result in errors.**
 - The .addTO(map) code will add the tile layers to the map variable.
@@ -55,4 +55,5 @@ This section of the code consists of various parameters:
 - Create a new variable to hold the Leaflet feature group for drawn items 
 - Create another variable for the Leaflet draw control for drawing shapes on the map 
 - The featureGroup option specifies that the drawn shapes will be added to the drawnItems FeatureGroup.
-  -<Will add JS2 image here> 
+  -![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/e26ef3fb-f295-4d16-ad97-6eed8ffd56d5)
+ 
