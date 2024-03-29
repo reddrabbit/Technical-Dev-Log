@@ -1,8 +1,8 @@
 # Activity: Creating Map Views with Leaflet 
 ### Date: 28th March, 2024 
 ### Start Time: 12:00 
-### End Time: 13:30 
-### Duration:  90 mins 
+### End Time: 13:20 
+### Duration:  80 mins 
 ### Activity: Creating a web map with buffer functionality  
 ### Outcomes:  
   - Learn about Leaflet and how it works
