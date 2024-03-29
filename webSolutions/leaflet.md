@@ -5,8 +5,10 @@
 ### Duration:  90 mins 
 ### Activity: Creating a web map with buffer functionality  
 ### Outcomes:  
+  - Learn about Leaflet and how it works
+  - Build something after learning about the JavaScript library and its possibilities
+  - Give a ranking on whether or not it is suitable for solving team problem statement
   - URL to result: [Attempted Buffer Map](https://reddrabbit.github.io/Technical-Dev-Log/webSolutions/leafletMaps/buffer.html)
-  - Learn about Leaflet and how it works 
 ### Next Step: 
   - Explore the rumoured Leaflet Offline JS
 ### Note:
