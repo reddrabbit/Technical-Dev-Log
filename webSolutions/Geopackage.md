@@ -61,7 +61,7 @@ I decided to add a print button function to the webpage via the HTML button tag 
 ##### Resources: [howCode's Youtube Channel](https://www.youtube.com/watch?v=hFNZ6kdBgO0&list=LL&index=1)
 **Here's a guide/technical walkthrough to setting up a local server with python via VS Code (would probably work in other IDEs)**
 - Open VS Code and then open the folder that contains the files you will be working with
-- Create a new script, and in this script enter the code which you can find here -> [python local server script]():
+- Create a new script, and in this script enter the code which you can find here -> [python local server script](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/server.py):
 -  Once the script has been authored, run the script
 -  In your browser of choice, enter 'localhost:port of choice.htmlfile.html'
 - **Note that the server will run for the duration that VS Code or your server script is running. Once either is terminated, the server dies**
