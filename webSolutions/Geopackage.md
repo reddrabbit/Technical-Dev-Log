@@ -46,6 +46,25 @@ I decided to add a print button function to the webpage via the HTML button tag 
 - Would only work as a sort of read only alternative when the map area is needed for visualization in reports.
 - The printable extent could not be directly configured, so you will have to do a series of panning and zooming to fit the desired extent
 - Could not get the button to print just the map div element. Prints entire web page
+# Activity: Working with Geopackage's Offline JS solution for web apps
+### Start Time: 12:00
+### End Time: 13:00
+### Date: April 2nd, 2024
+### Duration: 60 Mins
+### Outcomes:
+- Utilize a map package with feature layers extracted and converted to a readable format for JS
+- Get map tiles from OSM and have it underlay the geopackage and its data
+### Next Step: 
+- Divulge findings with team members
+#### Steps:
+##### Setting up a local server with Python:
+##### Resources: [howCode's Youtube Channel](https://www.youtube.com/watch?v=hFNZ6kdBgO0&list=LL&index=1)
+**Here's a guide/technical walkthrough to setting up a local server with python via VS Code (would probably work in other IDEs)**
+- Open VS Code and then open the folder that contains the files you will be working with
+- Create a new script, and in this script enter the code which you can find here -> [python local server script]():
+-  Once the script has been authored, run the script
+-  In your browser of choice, enter 'localhost:port of choice.htmlfile.html'
+- **Note that the server will run for the duration that VS Code or your server script is running. Once either is terminated, the server dies**
 
 #### Final Thoughts on Geopackage's JS library web solution
 While this approach seemed promising, it was ultimately a waste of time in some aspects because most of the JS library supports for geopackage were either outdated with very little documentation and/or helpful resources to get the updated versions or the library just did not exist anymore for one reason or the other. It does, however, function well with their native desktop and mobile app that can accept geopakages and allow the user to configure offline areas as you would with ArcGIS' field maps. I did not look into this approach because it was not a web solution, so very little knowledge of this is known at the moment.
