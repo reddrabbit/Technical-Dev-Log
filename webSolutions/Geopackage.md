@@ -37,7 +37,7 @@ The JS libraries for Geopackage have packages that allow the client request for 
 **_Unfortunately, as i did not have any way to create my own Geopackage files from the previous attempt, and also the time alloted for the weekly work period does not cover data processing and acquisition, i had to use the geopackage file from the repository. Hence the similarity in codes and very little changes made to the initial script._** Credit goes to: _ngageoint_
 - Once displayed on the map, the geopackage files can be seen but cannot be queried for information.
 **This approach uses an online format to get information from a geopackage that has been hosted somewhere on the web. Not ideal for offline mapping but a good way to work with data across the web.**
-
+#### Attempt at mimicking an offline area creation:
 I decided to add a print button function to the webpage via the HTML button tag to mimic an offline solution. The problem with this approach is that:
 - it does not allow any form of data query or dynamic update of features on the map
 - The map is not scrollable or panable
@@ -47,6 +47,7 @@ I decided to add a print button function to the webpage via the HTML button tag 
 - The printable extent could not be directly configured, so you will have to do a series of panning and zooming to fit the desired extent
 - Could not get the button to print just the map div element. Prints entire web page
 
+#### Final Thoughts on Geopackage's JS library web solution
 While this approach seemed promising, it was ultimately a waste of time in some aspects because most of the JS library supports for geopackage were either outdated with very little documentation and/or helpful resources to get the updated versions or the library just did not exist anymore for one reason or the other. It does, however, function well with their native desktop and mobile app that can accept geopakages and allow the user to configure offline areas as you would with ArcGIS' field maps. I did not look into this approach because it was not a web solution, so very little knowledge of this is known at the moment.
 
  
