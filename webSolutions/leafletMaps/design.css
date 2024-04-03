@@ -1,0 +1,11 @@
+html, body, #map {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+  .head h1{
+    background: rgb(194, 169, 169);
+    color: rgb(184, 77, 77);
+    padding: 10px;
+  }
