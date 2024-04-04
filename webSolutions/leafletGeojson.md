@@ -6,7 +6,7 @@
 - Get a web map to display local data
 ## Next Steps:
 - Research ways to facilitate data query for the local geoJson file without an API
-### Result: [Attempt]()
+### Result: [Attempt](). Please note that when you do run this via the link provided, it will not display the GeoJson. You must use a local server for this to work. 
 ### Resources: [Maria Coitinho on Medium](https://medium.com/@brasildu/fetch-get-request-on-local-api-6beb290ec50b)
 **Will be making use of local server for this as web servers have a security restriction on accessing locally stored data due to security reasons**
 **Error when using a non local server: **
@@ -18,6 +18,7 @@
   - Decided to use a tile layer from OSM
 - For handling the GeoJSON, enter this JS:
 ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/2d2d4bdd-578e-4303-830b-f98cfe48aea2)
+- The Fetch path should be changed to match whichever port and host is currently being used. 
 - The script will fetch the geoJSON using the local host. Make sure the file is within the same directory as where the local server has been set to run on.
 - Now launch the html file via the local server.
 
