@@ -1,7 +1,7 @@
 # Activity: Pairing Leaflet and JS to access local geojson data
 ## Start Time: 20:20
-## End Time: 20:50
-## Duration: 30 minutes
+## End Time: 20:55
+## Duration: 35 minutes
 ## Outcomes:
 - Get a web map to display local data
 ## Next Steps:
