@@ -30,7 +30,7 @@ The JS libraries for Geopackage have packages that allow the client request for 
   - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/0a75444b-4558-4ddf-ba5c-99802b241b97)
   - Command Line Script
 - The conclusion for this aspect was that the library was either no longer available or the packages i had were missing some key elements. As there was no other resource out there, i decided to drop the idea.
-##### Setting up a map area with Geopackage-Leaflet Plugin:
+#### Setting up a map area with Geopackage-Leaflet Plugin:
 - Head on over to [Geopackage's Leaflet JS Page](https://ngageoint.github.io/leaflet-geopackage/)
 - Click on the GitHub button to go straight to where the JS files are located
 - Copy the code and customize to meet your preferences
