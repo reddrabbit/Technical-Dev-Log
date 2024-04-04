@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Local/Server Map with GeoJSON</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        html, body, #map { height: 100%; }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://js.arcgis.com/4.25/"></script>
+    <script>
+        // Create a Leaflet map
+        var map = L.map('map').setView([50.4452, -104.6189], 6);
+
+        // Add tile layer (basemap)
+        L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        map.setMaxZoom(10);
+        map.setMinZoom(5)
+
+        // Load GeoJSON data from a local file
+        fetch('http://localhost:8000/ColdTrail.geojson')
+            .then(response => response.json())
+            .then(geoJsonData => {
+                // Create a GeoJSON layer and add it to the map
+                L.geoJSON(geoJsonData).addTo(map);
+            })
+            .catch(error => {
+                console.error('Error loading GeoJSON data:', error);
+            });
+    </script>
+</body>
+</html>
