@@ -18,7 +18,7 @@ A Geopackage is an open standards-based container for storing Geospatial informa
 The JS libraries for Geopackage have packages that allow the client request for information from geopackaged assets that are stored locally within the device, eliminating the need for a server connection. It does, however, require the assistance of another JS library like Leaflet to deploy map interfaces upon which the geopackaged files will be displayed, as it has no functionality to provide any web tier functionality.
 
 #### Steps: 
-##### Creating a Geopackage with the Geopackage JS Library for web applications
+#### Creating a Geopackage with the Geopackage JS Library for web applications
 **To get data offline, it is required to convert it to a geopackage to allow the Geopackage JS libraries access it**
 - Head on to the [Geopackage](https://ngageoint.github.io/geopackage-geojson-js/) JS webpage and click on the API button
 - Once there, copy the code to any IDE of choice and swap out parameters
