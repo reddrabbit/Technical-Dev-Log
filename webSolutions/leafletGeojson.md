@@ -6,7 +6,7 @@
 - Get a web map to display local data
 ## Next Steps:
 - Research ways to facilitate data query for the local geoJson file without an API
-### Result: [Attempt](). Please note that when you do run this via the link provided, it will not display the GeoJson. You must use a local server for this to work. 
+### Result: [Attempt](https://reddrabbit.github.io/Technical-Dev-Log/webSolutions/leafletMaps/offlinetest/index.html). Please note that when you do run this via the link provided, it will not display the GeoJson. You must use a local server for this to work. 
 ### Resources: [Maria Coitinho on Medium](https://medium.com/@brasildu/fetch-get-request-on-local-api-6beb290ec50b)
 **Will be making use of local server for this as web servers have a security restriction on accessing locally stored data due to security reasons**
 **Error when using a non local server: **
