@@ -92,7 +92,7 @@ I decided to add a print button function to the webpage via the HTML button tag 
   - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/eba3ed7a-9cd5-4cc7-a2cc-aa51f39e0909)
 - Lack of knowledge and adequate resources and documentation on the geopackage API prevented me from properly understanding the error above and as such, i could not find any other remedies aside commenting out the lines of code that resulted in errors
 - At the end of the day, i was left with a basic Leaflet Map with absolutely no way of accessing or deploying a geopackage.
-- The result can be previewed here: [A not so offline web solution]()
+- The result can be previewed here: [A not so offline web solution](https://reddrabbit.github.io/Technical-Dev-Log/offlinegpkg/index.html)
 
  
  
