@@ -9,7 +9,7 @@
 ### Result: [Attempt](https://reddrabbit.github.io/Technical-Dev-Log/webSolutions/leafletMaps/offlinetest/index.html). Please note that when you do run this via the link provided, it will not display the GeoJson. You must use a local server for this to work. 
 ### Resources: [Maria Coitinho on Medium](https://medium.com/@brasildu/fetch-get-request-on-local-api-6beb290ec50b)
 **Will be making use of local server for this as web servers have a security restriction on accessing locally stored data due to security reasons**
-**Error when using a non local server: **
+**Error when using a non local server:**
 ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/34ca55f1-964f-4fae-aca9-2293d0b42cd3)
 ### Steps:
 - Set up a leaflet map view as usual
