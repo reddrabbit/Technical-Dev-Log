@@ -59,7 +59,7 @@ I decided to add a print button function to the webpage via the HTML button tag 
 #### Steps:
 ##### Setting up a local server with Python:
 ##### Resources: [howCode's Youtube Channel](https://www.youtube.com/watch?v=hFNZ6kdBgO0&list=LL&index=1)
-##### Result: [Not so Offline Map Solution]()
+
 **Here's a guide/technical walkthrough to setting up a local server with python via VS Code (would probably work in other IDEs)**
 - Open VS Code and then open the folder that contains the files you will be working with
 - Create a new script, and in this script enter the code which you can find here -> [python local server script](https://github.com/reddrabbit/Technical-Dev-Log/blob/main/webSolutions/server.py):
@@ -92,6 +92,7 @@ I decided to add a print button function to the webpage via the HTML button tag 
   - ![image](https://github.com/reddrabbit/Technical-Dev-Log/assets/146376039/eba3ed7a-9cd5-4cc7-a2cc-aa51f39e0909)
 - Lack of knowledge and adequate resources and documentation on the geopackage API prevented me from properly understanding the error above and as such, i could not find any other remedies aside commenting out the lines of code that resulted in errors
 - At the end of the day, i was left with a basic Leaflet Map with absolutely no way of accessing or deploying a geopackage.
+- The result can be previewed here: [A not so offline web solution]()
 
  
  
