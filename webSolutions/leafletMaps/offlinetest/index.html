@@ -27,7 +27,7 @@
         map.setMinZoom(5)
 
         // Load GeoJSON data from a local file
-        fetch('http://localhost:8000/ColdTrail.geojson')
+        fetch('./ColdTrail.geojson')
             .then(response => response.json())
             .then(geoJsonData => {
                 // Create a GeoJSON layer and add it to the map
